@@ -48,7 +48,8 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "dommatrix": "1.0.3",
-    "web-streams-polyfill": "4.0.0"
+    "web-streams-polyfill": "4.0.0",
+    "pdfjs-dist": "4.10.38"
   },
   "devDependencies": {
     "jest": "29.7.0"
